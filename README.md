@@ -17,10 +17,12 @@ The Caesar Cipher is one of the earliest known encryption techniques. It works b
 
 ## 🚀 How to Use
 
-1. Run the `caesar_cipher.py` script.
+1. Run the `[caesar_cipher.py](https://github.com/rudranarayan992/PRODIGY_CS_01/commit/ed0ed6dfc31632ba3d9d9c17e3c455d2d72adc8a#diff-5408e2413fab80eb5f85a26579b3b52fe98ffef1085969666f3b07faf74a6a6a
+)` script.
 2. Choose whether to encrypt or decrypt.
 3. Input your message.
 4. Enter a shift value.
 
-https://github.com/rudranarayan992/PRODIGY_CS_01/commit/ed0ed6dfc31632ba3d9d9c17e3c455d2d72adc8a#diff-5408e2413fab80eb5f85a26579b3b52fe98ffef1085969666f3b07faf74a6a6a
-.url…]()
+
+caesar_cipher.py
+
