@@ -24,4 +24,14 @@ The Caesar Cipher is one of the earliest known encryption techniques. It works b
 4. Enter a shift value.
 
 
+---
+
+## 🛠️ Requirements
+- Python 3
+
+To run the script:
+```bash
+python caesar_cipher.py
+
+
   
